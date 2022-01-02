@@ -30,6 +30,12 @@
 
 [层序遍历](Leetcode/Tree/层序遍历.md)
 
+### 图
+
+#### 1、内向基环树
+
+- [参加会议的最多员工数](https://leetcode-cn.com/problems/maximum-employees-to-be-invited-to-a-meeting/)-T4-[274周赛](competition/leetcode/weekly-contest-274.md)
+
 
 
 
@@ -41,6 +47,7 @@
 | 时间       | 比赛                                                  |
 | ---------- | ----------------------------------------------------- |
 | 2021-12-26 | [273周赛](competition/leetcode/weekly-contest-273.md) |
+| 2022-1-2   | [274周赛](competition/leetcode/weekly-contest-274.md) |
 
 
 
